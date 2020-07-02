@@ -21,10 +21,10 @@ public class Tictactoe {
 	}
 	
 	/**
-	 * Creates new Tic Tac Toe.
+	 * Creates new Tic-Tac-Toe.
 	 *
-	 * @param width is the number of <b>columns</b> of the Tic Tac Toe Board.
-	 * @param height is the number of <b>row</b> of the Tic Tac Toe Board.
+	 * @param width is the number of <b>columns</b> of the Tic-Tac-Toe Board.
+	 * @param height is the number of <b>row</b> of the Tic-Tac-Toe Board.
 	 * @param cellSize is the <b>number of pixels</b> of each cell.
 	 * @param length is the required number of consecutive marks horizontally, vertically, or diagonal row.
 	 * @param firstPlayer is the first player;
